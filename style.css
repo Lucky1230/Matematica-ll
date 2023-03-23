@@ -1,8 +1,12 @@
 body {
-    background-color: #000000;
+    background-color: #2321b3;
     color: whitesmoke;
 }
-
-h1 {
-    color: aliceblue;
+.cabecalho-imagem {
+        width: 20%;
+}
+.cabecalho {
+    background-color: white;
+    color: white;
+    display: flex;
 }
